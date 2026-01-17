@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Simyl Logo" width="200">
+<img src="../assets/logo.png" alt="Simyl Logo" width="200">
 
 # Simyl
 
